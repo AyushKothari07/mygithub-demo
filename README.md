@@ -1,2 +1,3 @@
 # mygithub-demo
-I am learning Git
+I am learning Git.
+Author - Ayush Kothari
